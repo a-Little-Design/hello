@@ -1,2 +1,2 @@
 # ✨Hello💎
-:blue_heart:  Hello World.🎨1
+:blue_heart:  Hello World.🎨
