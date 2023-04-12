@@ -38,7 +38,7 @@ Little Design.
 
 # Contact Us
 - If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us.
-- You can find the Email address on our GitHub developer page. Our GitHub developer page here.
+- You can find the Email address on our [GitHub developer page](https://github.com/a-Little-Design). Our [GitHub developer page](https://github.com/a-Little-Design/stone-plus-iconpack) here.
 
 
 
