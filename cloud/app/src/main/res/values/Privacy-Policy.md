@@ -14,7 +14,7 @@ A App was developed by our developer. The developer's name that "a Little Design
 
 # About
 
-- We Bulit this App as a Commercial application. This Service is provided by developer of our Application.
+- We Bulit this App as a formal application. This Service is provided by developer of our Application.
 - When you use our Services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 - This Privacy Policy is meant to help you understand what information we collec, and how you can manage your information.
 - This page is used to inform visitors regarding our policies with the collection, use and disclosure of Personal Information if anyone decided to use our Service.
