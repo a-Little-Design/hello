@@ -72,7 +72,7 @@ Information Collection and Use
 - The content of our software is suitable for viewing and use by children. ( Children can safely use our application service.) The content of our application is safely and suitable. Such as the icons, and the wallpaper.
 - Our Apps are categorized and policies are applied according to the specific target audience groups. 
 - Our ads strategy is compliant with the Families policies by reviewing the Ads and monetization policies.
-- Our app (including all APIs, SDKs, and ads) complies with all applicable laws and regulations relating to children, including the [US Children's Online Privacy Protection Act (COPPA)](https://www.google.com/url?q=https%3A%2F%2Fwww.ftc.gov%2Ftips-advice%2Fbusiness-center%2Fprivacy-and-security%2Fchildren%27s-privacy&sa=D), and the [EU General Data Protection Regulation (GDPR)](https://www.google.com/url?q=https%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2F%3Furi%3DCELEX%3A32016R0679&sa=D).
+- Our app (including all APIs, SDKs, and ads) complies with all applicable laws and regulations relating to children, including the [US Children's Online Privacy Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy), and the [EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679).
 
 
 
@@ -82,7 +82,7 @@ Information Collection and Use
 - We do not knowingly collect personally identifiable information from children under 13 years old. 
 - In the case we discover that a child under 13 has provided us with personal information, we will immediately delete this data from our servers. 
 - If you are parent or guardian who your child has provided us with personal information, please contact us to take necessary actions.
-- We follow the [Google Play's Families policies](https://play.google.com/console/about/programs/families/) and the other Children's Online Privacy, including the [US Children's Online Privacy Protection Act (COPPA)](https://www.google.com/url?q=https%3A%2F%2Fwww.ftc.gov%2Ftips-advice%2Fbusiness-center%2Fprivacy-and-security%2Fchildren%27s-privacy&sa=D), and the [EU General Data Protection Regulation (GDPR)](https://www.google.com/url?q=https%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2F%3Furi%3DCELEX%3A32016R0679&sa=D).
+- We follow the [Google Play's Families policies](https://play.google.com/console/about/programs/families/) and the other Children's Online Privacy, including the [US Children's Online Privacy Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy), and the [EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679).
 
 
 
