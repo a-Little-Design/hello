@@ -1,18 +1,18 @@
-# Little
-Little Design.
+#  Little Design
+A App was developed by our developer. The developer's name that "a Little Design" or "Little Design".
 
-Privacy Policy
+# Privacy Policy
 
-This is the Privacy Policy page of Applications which designed by the developer GA Design.
-The GA developer page on Google Play Store is here.
-This Privacy Policy applies to general Application which designed by GA developer.
-You can find our Apps, such as Icon Pack and Xperia Theme Apps on this page.
+This is the Privacy Policy page of Applications which designed by the developer "Little Design".
+The "Little Design" developer page on GitHub is here.
+This Privacy Policy applies to general Application which designed by "Little Design" developer.
+You can find our Apps, such as Icon Pack Apps on this page.
 By using our Services, you are agreeing to read these terms. Please read them carefully. 
-This Privacy Policy is a valid document for our Icon Pack application, and our Xperia Theme application, and our software service.
+This Privacy Policy is a valid document for our Icon Pack application, and our mobile application, and our software service.
 
 
 
-About
+# About
 
 We Bulit this App as a Commercial application. This Service is provided by developer of our Application.
 When you use our Services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
@@ -23,7 +23,7 @@ We collect information about the apps and devices you use to access our services
 
 
 
-Personal and Sensitive User Data Policy
+# Personal and Sensitive User Data Policy
 Information Collection and Use
 
 With the better experience of our application Service, We may require you to provide us with certain personally identifiable information. 
@@ -48,7 +48,7 @@ You can get the beautiful screen after use our new Icon Pack application.
 
 
 
-Sharing Your Information
+# Sharing Your Information
 
 We do not share any information and data that we receive from you.
 We also use the third party services of Google Play Services. The Google Play Services maybe will collect some information from your device. Please read the related page of Google Play Services.
@@ -62,7 +62,7 @@ Firebase Crashlytics
 
 
 
-Families Policy
+# Families Policy
 
 We strongly inform you that we follow the Google Play's Families policies. Providing a high quality and safe app for children and families is a high priority of developer. Please read the page here.
 We do not collect personally identifiable information from children and families.  ( We can not receive any personally identifiable information and user data of your device if you install our application. ) We can not get your any data and information if you do not send us the Email. 
@@ -76,7 +76,7 @@ Our app (including all APIs, SDKs, and ads) complies with all applicable laws an
 
 
 
-Chindren's Privacy
+# Chindren's Privacy
 
 These Services do not address anyone under the age of 13. 
 We do not knowingly collect personally identifiable information from children under 13 years old. 
@@ -86,7 +86,7 @@ We follow the Google Play's Families policies and the other Children's Online Pr
 
 
 
-Other Privacy Content
+# Other Privacy Content
 
 
 Log Data
@@ -160,7 +160,7 @@ We promise that you can use our products safely and with confidence.
 We promise that we will continue to improve our products and services.
 Thank you for your support and trust in our products.
 
-Contact Us
+# Contact Us
 If you have any questions or suggestions about our Privacy Policy, please contact us with Email first. 
 You can find the Email address on our Google Play developer page. Our Google Play developer page here.
 
