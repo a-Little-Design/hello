@@ -72,7 +72,7 @@ Information Collection and Use
 - The content of our software is suitable for viewing and use by children. ( Children can safely use our application service.) The content of our application is safely and suitable. Such as the icons, and the wallpaper.
 - Our Apps are categorized and policies are applied according to the specific target audience groups. 
 - Our ads strategy is compliant with the Families policies by reviewing the Ads and monetization policies.
-- Our app (including all APIs, SDKs, and ads) complies with all applicable laws and regulations relating to children, including the US Children's Online Privacy Protection Act (COPPA), and the EU General Data Protection Regulation (GDPR).
+- Our app (including all APIs, SDKs, and ads) complies with all applicable laws and regulations relating to children, including the [US Children's Online Privacy Protection Act (COPPA)](https://www.google.com/url?q=https%3A%2F%2Fwww.ftc.gov%2Ftips-advice%2Fbusiness-center%2Fprivacy-and-security%2Fchildren%27s-privacy&sa=D), and the [EU General Data Protection Regulation (GDPR)](https://www.google.com/url?q=https%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2F%3Furi%3DCELEX%3A32016R0679&sa=D).
 
 
 
@@ -82,7 +82,7 @@ Information Collection and Use
 - We do not knowingly collect personally identifiable information from children under 13 years old. 
 - In the case we discover that a child under 13 has provided us with personal information, we will immediately delete this data from our servers. 
 - If you are parent or guardian who your child has provided us with personal information, please contact us to take necessary actions.
-- We follow the Google Play's Families policies and the other Children's Online Privacy, including the US Children's Online Privacy Protection Act (COPPA), and the EU General Data Protection Regulation (GDPR).
+- We follow the [Google Play's Families policies](https://play.google.com/console/about/programs/families/) and the other Children's Online Privacy, including the [US Children's Online Privacy Protection Act (COPPA)](https://www.google.com/url?q=https%3A%2F%2Fwww.ftc.gov%2Ftips-advice%2Fbusiness-center%2Fprivacy-and-security%2Fchildren%27s-privacy&sa=D), and the [EU General Data Protection Regulation (GDPR)](https://www.google.com/url?q=https%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2F%3Furi%3DCELEX%3A32016R0679&sa=D).
 
 
 
@@ -91,7 +91,7 @@ Information Collection and Use
 
 # Log Data
 - I want to inform you that whenever you use our Service, in a case of an error in the app. 
-- And we collect data and information ( through third party products like Google Play Services ) on your phone called Log Data. 
+- And we collect data and information ( through third party products like [Google Play Services](https://play.google.com/about/play-terms/) ) on your phone called Log Data. 
 - The Log Data may include information such as the device Internet Protocol address ( IP address ), device name, operating system version, crash reports, and the date, time, and other statistics.
 - We will not share the data and information to anyone. We will keep the data safety.
 
@@ -99,7 +99,7 @@ Information Collection and Use
 # Cookies
 - Cookies are files with a small amount of data that are commonly used as anonymous inique identifiers. HTTP cookies (also called web cookies) are small blocks of data created by a web server while a user is browsing a website and placed on the user's device by the user's web browser. 
 - Our Service does not use any Cookies technology. 
-- However, the app may use third party code and libraries on Github such as Blueprint Icon Pack dashboard ( https://github.com/jahirfiquitiva/Blueprint ). The third party code and libraries may use Cookies to collect information and improve their services. 
+- However, the app may use third party code and libraries on Github such as [Blueprint Icon Pack dashboard](https://github.com/jahirfiquitiva/Blueprint) ( https://github.com/jahirfiquitiva/Blueprint ). The third party code and libraries may use Cookies to collect information and improve their services. 
 - You have the right to option. 
 - You can choose either accept or refuse these Cookies.  ( If you choose to refuse the Cookies, you may not be able to use our Service of the application. )
 - If you worried about the Cookies with our Icon Pack application, you can delete and uninstall the application immediately.
@@ -115,17 +115,17 @@ Information Collection and Use
 - The reason is to perform the tasks assigned to them on our behalf. 
 - However, they are obligated not to disclose or use the information for any other purpose.
 - Link to the privacy policy of third-party service providers maybe used by this app. Please read their privacy policy pages if you concern about the third-party service.
-- - Google Play Services
-- - AdMob
-- - Google Analytics for Firebase
-- - Firebase Crashlytics
+- - [Google Play Services](https://www.google.com/policies/privacy)
+- - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+- - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+- - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
 
 
 # Security
 - When you use our Services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 - We try our best to project your security of personal information data.
-- We will use the original SDK ( Android Studio and App Tools ) to bulit our application.
+- We will use the original SDK ( [Android Studio](https://developer.android.com/studio) and App Tools ) to bulit our application.
 - We will update our application first if we found some bugs. 
 
 
@@ -137,18 +137,18 @@ Information Collection and Use
 
 
 # Advertisements
-- We follow the Advertisements requirements of Google Play. 
+- We follow the [Advertisements requirements](https://support.google.com/googleplay/android-developer/answer/9893335) of Google Play. 
 - Our application does not include any third party Advertisements module or any third party Advertisements SDK Program.  
 - Our application does not include any third party Advertisements contents.
 - Our application does not collect personal information data wtih any Ads ID or Ads API module.
-- If our app displays ads to children or to users of unknown age, we must follow the Advertisements requirements. ( Only use Google Play Families Self-Certified Ads SDKs to display ads to those users. )
+- If our app displays ads to children or to users of unknown age, we must follow the [Advertisements requirements](https://support.google.com/googleplay/android-developer/answer/9893335). ( Only use [Google Play Families Self-Certified Ads SDKs](https://support.google.com/googleplay/android-developer/answer/9900633) to display ads to those users. )
 - Ensure ads displayed to those users do not involve interest-based advertising (advertising targeted at individual users who have certain characteristics based on their online browsing behavior) or remarketing (advertising targeted at individual users based on previous interaction with an app or website).
 - Ensure ads displayed to those users present content that is appropriate for children.
 - Ensure ads displayed to those users follow the Families ad format requirements.
 - Ensure compliance with all applicable legal regulations and industry standards relating to advertising to children.
 
 # Agreement Changes
-- We may update our Privacy Policy from time to time. We may update the document first if the Android developer content policy changed.
+- We may update our Privacy Policy from time to time. We may update the document first if the [Android developer content policy](https://play.google.com/about/developer-content-policy/) changed.
 - We advise you to review this page at any time. Then you can find what new changes in our Privacy Policy. 
 - We will notify you that all the changes in our Privacy Policy.
 - This version of our Privacy Policy is effective since 2023-03-22.
@@ -162,7 +162,7 @@ Information Collection and Use
 
 # Contact Us
 - If you have any questions or suggestions about our Privacy Policy, please contact us with Email first. 
-- You can find the Email address on our GitHub developer page. Our GitHub developer page here.
+- You can find the Email address on our GitHub developer page. Our [GitHub developer page](https://github.com/a-Little-Design/stone-plus-iconpack) here.
 
 
 
