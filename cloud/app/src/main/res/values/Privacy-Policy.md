@@ -89,80 +89,80 @@ Information Collection and Use
 # Other Privacy Content
 
 
-# # Log Data
-I want to inform you that whenever you use our Service, in a case of an error in the app. 
-And we collect data and information ( through third party products like Google Play Services ) on your phone called Log Data. 
-The Log Data may include information such as the device Internet Protocol address ( IP address ), device name, operating system version, crash reports, and the date, time, and other statistics.
-We will not share the data and information to anyone. We will keep the data safety.
+# Log Data
+- I want to inform you that whenever you use our Service, in a case of an error in the app. 
+- And we collect data and information ( through third party products like Google Play Services ) on your phone called Log Data. 
+- The Log Data may include information such as the device Internet Protocol address ( IP address ), device name, operating system version, crash reports, and the date, time, and other statistics.
+- We will not share the data and information to anyone. We will keep the data safety.
 
 
-Cookies
-Cookies are files with a small amount of data that are commonly used as anonymous inique identifiers. HTTP cookies (also called web cookies) are small blocks of data created by a web server while a user is browsing a website and placed on the user's device by the user's web browser. 
-Our Service does not use any Cookies technology. 
-However, the app may use third party code and libraries on Github such as Blueprint Icon Pack dashboard ( https://github.com/jahirfiquitiva/Blueprint ). The third party code and libraries may use Cookies to collect information and improve their services. 
-You have the right to option. 
-You can choose either accept or refuse these Cookies.  ( If you choose to refuse the Cookies, you may not be able to use our Service of the application. )
-If you worried about the Cookies with our Icon Pack application, you can delete and uninstall the application immediately.
+# Cookies
+- Cookies are files with a small amount of data that are commonly used as anonymous inique identifiers. HTTP cookies (also called web cookies) are small blocks of data created by a web server while a user is browsing a website and placed on the user's device by the user's web browser. 
+- Our Service does not use any Cookies technology. 
+- However, the app may use third party code and libraries on Github such as Blueprint Icon Pack dashboard ( https://github.com/jahirfiquitiva/Blueprint ). The third party code and libraries may use Cookies to collect information and improve their services. 
+- You have the right to option. 
+- You can choose either accept or refuse these Cookies.  ( If you choose to refuse the Cookies, you may not be able to use our Service of the application. )
+- If you worried about the Cookies with our Icon Pack application, you can delete and uninstall the application immediately.
 
 
-Service Providers
-I may employ third-party companies and individuals due to the following reasons:
-To facilitate our Service.
-To provide the Service on our behalf.
-To perform Service-related services.
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to their Personal Information. 
-The reason is to perform the tasks assigned to them on our behalf. 
-However, they are obligated not to disclose or use the information for any other purpose.
-Link to the privacy policy of third-party service providers maybe used by this app. Please read their privacy policy pages if you concern about the third-party service.
-Google Play Services
-AdMob
-Google Analytics for Firebase
-Firebase Crashlytics
+# Service Providers
+- I may employ third-party companies and individuals due to the following reasons:
+ 1. To facilitate our Service.
+ 2. To provide the Service on our behalf.
+ 3. To perform Service-related services.
+ 4. To assist us in analyzing how our Service is used.
+- I want to inform users of this Service that these third parties have access to their Personal Information. 
+- The reason is to perform the tasks assigned to them on our behalf. 
+- However, they are obligated not to disclose or use the information for any other purpose.
+- Link to the privacy policy of third-party service providers maybe used by this app. Please read their privacy policy pages if you concern about the third-party service.
+- - Google Play Services
+- - AdMob
+- - Google Analytics for Firebase
+- - Firebase Crashlytics
 
 
 
-Security
-When you use our Services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
- We try our best to project your security of personal information data.
-We will use the original SDK ( Android Studio and App Tools ) to bulit our application.
-We will update our application first if we found some bugs. 
+# Security
+- When you use our Services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
+- We try our best to project your security of personal information data.
+- We will use the original SDK ( Android Studio and App Tools ) to bulit our application.
+- We will update our application first if we found some bugs. 
 
 
-Links
-Our Service may contain links to other website, such as Github and Google Play. 
-If you click on the links of third party website, you will be directed to that webpage. 
-Notice that these third websites are not operated by us. ( Therefore, I strogly advise you to review the Privacy Policy of those websites. )
-We have no control over and assume no responsibility for the content, privacy policy, or practices of any third party websites or their services. ( You could not click in the links if you do not want. ) The links is not necessary if you do not like to enter.
+# Links
+- Our Service may contain links to other website, such as Github and Google Play. 
+- If you click on the links of third party website, you will be directed to that webpage. 
+- Notice that these third websites are not operated by us. ( Therefore, I strogly advise you to review the Privacy Policy of those websites. )
+- We have no control over and assume no responsibility for the content, privacy policy, or practices of any third party websites or their services. ( You could not click in the links if you do not want. ) The links is not necessary if you do not like to enter.
 
 
-Advertisements
-We follow the Advertisements requirements of Google Play. 
-Our application does not include any third party Advertisements module or any third party Advertisements SDK Program.  
-Our application does not include any third party Advertisements contents.
-Our application does not collect personal information data wtih any Ads ID or Ads API module.
- If our app displays ads to children or to users of unknown age, we must follow the Advertisements requirements. ( Only use Google Play Families Self-Certified Ads SDKs to display ads to those users. )
-Ensure ads displayed to those users do not involve interest-based advertising (advertising targeted at individual users who have certain characteristics based on their online browsing behavior) or remarketing (advertising targeted at individual users based on previous interaction with an app or website).
-Ensure ads displayed to those users present content that is appropriate for children.
-Ensure ads displayed to those users follow the Families ad format requirements.
-Ensure compliance with all applicable legal regulations and industry standards relating to advertising to children.
+# Advertisements
+- We follow the Advertisements requirements of Google Play. 
+- Our application does not include any third party Advertisements module or any third party Advertisements SDK Program.  
+- Our application does not include any third party Advertisements contents.
+- Our application does not collect personal information data wtih any Ads ID or Ads API module.
+- If our app displays ads to children or to users of unknown age, we must follow the Advertisements requirements. ( Only use Google Play Families Self-Certified Ads SDKs to display ads to those users. )
+- Ensure ads displayed to those users do not involve interest-based advertising (advertising targeted at individual users who have certain characteristics based on their online browsing behavior) or remarketing (advertising targeted at individual users based on previous interaction with an app or website).
+- Ensure ads displayed to those users present content that is appropriate for children.
+- Ensure ads displayed to those users follow the Families ad format requirements.
+- Ensure compliance with all applicable legal regulations and industry standards relating to advertising to children.
 
-Agreement Changes
-We may update our Privacy Policy from time to time. We may update the document first if the Android developer content policy changed.
-We advise you to review this page at any time. Then you can find what new changes in our Privacy Policy. 
-We will notify you that all the changes in our Privacy Policy.
-This version of our Privacy Policy is effective since 2023-03-22.
+# Agreement Changes
+- We may update our Privacy Policy from time to time. We may update the document first if the Android developer content policy changed.
+- We advise you to review this page at any time. Then you can find what new changes in our Privacy Policy. 
+- We will notify you that all the changes in our Privacy Policy.
+- This version of our Privacy Policy is effective since 2023-03-22.
 
-Our efforts to protect privacy
-We follow Google and Android, a series of developer policies and agreements, and strive to protect the interests and privacy of all users.
-We promise to keep your user data and information safe.
-We promise that you can use our products safely and with confidence.
-We promise that we will continue to improve our products and services.
-Thank you for your support and trust in our products.
+# Our efforts to protect privacy
+- We follow Google and Android, a series of developer policies and agreements, and strive to protect the interests and privacy of all users.
+- We promise to keep your user data and information safe.
+- We promise that you can use our products safely and with confidence.
+- We promise that we will continue to improve our products and services.
+- Thank you for your support and trust in our products.
 
 # Contact Us
-If you have any questions or suggestions about our Privacy Policy, please contact us with Email first. 
-You can find the Email address on our Google Play developer page. Our Google Play developer page here.
+- If you have any questions or suggestions about our Privacy Policy, please contact us with Email first. 
+- You can find the Email address on our Google Play developer page. Our Google Play developer page here.
 
 
 
