@@ -34,62 +34,62 @@ Information Collection and Use
 - This terms is meant to help you understand why we collect it, and how you can update, manage, and export your information. 
 - This is the situation how the data is used. 
 - - When you want to add a new icon design in our application, and you can send your Email to us. ( You can open our Icon Pack App first. You can find a select button on the bottom that named as Request Icon. ) 
-Then you can select the installed app which you want, and our Icon Pack application will generate a data file. 
-The data file that including app icons, app package names,and application names. ( You can send us this data file with an Email. ) 
-Notice at this step. Our Icon Pack application will generate and save the data file on you device only. ( You have the only right to choose the next option. ) We can not get the data file if you do not choose the next section. 
-Notice that the next select option is the only way you can connect us. ( Notice that you can send us an Email with the data file. This is the only way of connection with us.  )
-Notice that you must have a Email client application on your device first. ( We can not get your any data and information if you do not send us the Email.) The data file should be encrypted by your Email client application. Please use the safe Email client application to send the Email, such as Gmail client application.
+- - Then you can select the installed app which you want, and our Icon Pack application will generate a data file. 
+- - The data file that including app icons, app package names,and application names. ( You can send us this data file with an Email. ) 
+- - Notice at this step. Our Icon Pack application will generate and save the data file on you device only. ( You have the only right to choose the next option. ) We can not get the data file if you do not choose the next section. 
+- - Notice that the next select option is the only way you can connect us. ( Notice that you can send us an Email with the data file. This is the only way of connection with us.  )
+- - Notice that you must have a Email client application on your device first. ( We can not get your any data and information if you do not send us the Email.) The data file should be encrypted by your Email client application. Please use the safe Email client application to send the Email, such as Gmail client application.
 
-We use data to build better services. We use the information what we collect from all our services for the following purposes. ( Why we need to get your Email and the data file. )
-We will get the data information that including app icons, app package names, and application names.
- So we can design a new icon display with that application you want. Then, a new icon can be added to our Icon Pack application.
-Then we can upgrade our Icon Pack application on the Google Play Store.
-You can get the beautiful screen after use our new Icon Pack application.
+- We use data to build better services. We use the information what we collect from all our services for the following purposes. ( Why we need to get your Email and the data file. )
+- - We will get the data information that including app icons, app package names, and application names.
+- - So we can design a new icon display with that application you want. Then, a new icon can be added to our Icon Pack application.
+- - Then we can upgrade our Icon Pack application on the Google Play Store.
+- - You can get the beautiful screen after use our new Icon Pack application.
 
 
 
 # Sharing Your Information
 
-We do not share any information and data that we receive from you.
-We also use the third party services of Google Play Services. The Google Play Services maybe will collect some information from your device. Please read the related page of Google Play Services.
-The app does use third party services that may collect information. ( Maybe the information used to identify you.) You can link the Privacy Policy of third party service providers used by the app.
-We follow the rules of Google Play Developer Distribution Agreement. Please read the related page of it.
-Link to the privacy policy of third-party service providers maybe used by this app. Please read their privacy policy pages if you want to know about the third-party service.
-Google Play Services
-AdMob
-Google Analytics for Firebase
-Firebase Crashlytics
+- We do not share any information and data that we receive from you.
+- We also use the third party services of Google Play Services. The Google Play Services maybe will collect some information from your device. Please read the related page of Google Play Services.
+- The app does use third party services that may collect information. ( Maybe the information used to identify you.) You can link the Privacy Policy of third party service providers used by the app.
+- We follow the rules of Google Play Developer Distribution Agreement. Please read the related page of it.
+- Link to the privacy policy of third-party service providers maybe used by this app. Please read their privacy policy pages if you want to know about the third-party service.
+- - Google Play Services
+- - AdMob
+- - Google Analytics for Firebase
+- - Firebase Crashlytics
 
 
 
 # Families Policy
 
-We strongly inform you that we follow the Google Play's Families policies. Providing a high quality and safe app for children and families is a high priority of developer. Please read the page here.
-We do not collect personally identifiable information from children and families.  ( We can not receive any personally identifiable information and user data of your device if you install our application. ) We can not get your any data and information if you do not send us the Email. 
-If you send us the Email. We will only get the data information that including app icons, app package names, and application names. 
-When you share your information to us, we must project your information with our Privacy Policy.  
-We will not share your information data to anyone, if you send us the Email.
-The content of our software is suitable for viewing and use by children. ( Children can safely use our application service.) The content of our application is safely and suitable. Such as the icons, and the wallpaper.
-Our Apps are categorized and policies are applied according to the specific target audience groups. 
-Our ads strategy is compliant with the Families policies by reviewing the Ads and monetization policies.
-Our app (including all APIs, SDKs, and ads) complies with all applicable laws and regulations relating to children, including the US Children's Online Privacy Protection Act (COPPA), and the EU General Data Protection Regulation (GDPR).
+- We strongly inform you that we follow the Google Play's Families policies. Providing a high quality and safe app for children and families is a high priority of developer. Please read the page here.
+- We do not collect personally identifiable information from children and families.  ( We can not receive any personally identifiable information and user data of your device if you install our application. ) We can not get your any data and information if you do not send us the Email. 
+- If you send us the Email. We will only get the data information that including app icons, app package names, and application names. 
+- When you share your information to us, we must project your information with our Privacy Policy.  
+- We will not share your information data to anyone, if you send us the Email.
+- The content of our software is suitable for viewing and use by children. ( Children can safely use our application service.) The content of our application is safely and suitable. Such as the icons, and the wallpaper.
+- Our Apps are categorized and policies are applied according to the specific target audience groups. 
+- Our ads strategy is compliant with the Families policies by reviewing the Ads and monetization policies.
+- Our app (including all APIs, SDKs, and ads) complies with all applicable laws and regulations relating to children, including the US Children's Online Privacy Protection Act (COPPA), and the EU General Data Protection Regulation (GDPR).
 
 
 
 # Chindren's Privacy
 
-These Services do not address anyone under the age of 13. 
-We do not knowingly collect personally identifiable information from children under 13 years old. 
-In the case we discover that a child under 13 has provided us with personal information, we will immediately delete this data from our servers. 
-If you are parent or guardian who your child has provided us with personal information, please contact us to take necessary actions.
-We follow the Google Play's Families policies and the other Children's Online Privacy, including the US Children's Online Privacy Protection Act (COPPA), and the EU General Data Protection Regulation (GDPR).
+- These Services do not address anyone under the age of 13. 
+- We do not knowingly collect personally identifiable information from children under 13 years old. 
+- In the case we discover that a child under 13 has provided us with personal information, we will immediately delete this data from our servers. 
+- If you are parent or guardian who your child has provided us with personal information, please contact us to take necessary actions.
+- We follow the Google Play's Families policies and the other Children's Online Privacy, including the US Children's Online Privacy Protection Act (COPPA), and the EU General Data Protection Regulation (GDPR).
 
 
 
 # Other Privacy Content
 
 
-Log Data
+# # Log Data
 I want to inform you that whenever you use our Service, in a case of an error in the app. 
 And we collect data and information ( through third party products like Google Play Services ) on your phone called Log Data. 
 The Log Data may include information such as the device Internet Protocol address ( IP address ), device name, operating system version, crash reports, and the date, time, and other statistics.
