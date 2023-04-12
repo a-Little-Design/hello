@@ -3,12 +3,12 @@ A App was developed by our developer. The developer's name that "a Little Design
 
 # Privacy Policy
 
-This is the Privacy Policy page of Applications which designed by the developer "Little Design".
-The "Little Design" developer page on GitHub is here.
-This Privacy Policy applies to general Application which designed by "Little Design" developer.
-You can find our Apps, such as Icon Pack Apps on this page.
-By using our Services, you are agreeing to read these terms. Please read them carefully. 
-This Privacy Policy is a valid document for our Icon Pack application, and our mobile application, and our software service.
+- This is the Privacy Policy page of Applications which designed by the developer "Little Design".
+- The "Little Design" developer page on GitHub is here.
+- This Privacy Policy applies to general Application which designed by "Little Design" developer.
+- You can find our Apps, such as Icon Pack Apps on this page.
+- By using our Services, you are agreeing to read these terms. Please read them carefully. 
+- This Privacy Policy is a valid document for our Icon Pack application, and our mobile application, and our software service.
 
 
 
