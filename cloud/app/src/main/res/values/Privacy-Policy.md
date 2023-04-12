@@ -1,5 +1,5 @@
 #  Little Design🎨
-A App was developed by our developer. The developer's name that "a Little Design" or "Little Design".
+The App was developed by our developer. The developer's name that "a Little Design" or "Little Design".
 
 #
 ---
