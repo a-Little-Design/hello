@@ -14,26 +14,26 @@ This Privacy Policy is a valid document for our Icon Pack application, and our m
 
 # About
 
-We Bulit this App as a Commercial application. This Service is provided by developer of our Application.
-When you use our Services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
-This Privacy Policy is meant to help you understand what information we collec, and how you can manage your information.
-This page is used to inform visitors regarding our policies with the collection, use and disclosure of Personal Information if anyone decided to use our Service.
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for improving the Service. We will not use or share your information with anyone.
-We collect information about the apps and devices you use to access our services, which helps us provide features such as modify the icons display of your phone screen, and change the phone wallpaper. We will not use or share your information with anyone.
+- We Bulit this App as a Commercial application. This Service is provided by developer of our Application.
+- When you use our Services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
+- This Privacy Policy is meant to help you understand what information we collec, and how you can manage your information.
+- This page is used to inform visitors regarding our policies with the collection, use and disclosure of Personal Information if anyone decided to use our Service.
+- If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for improving the Service. We will not use or share your information with anyone.
+- We collect information about the apps and devices you use to access our services, which helps us provide features such as modify the icons display of your phone screen, and change the phone wallpaper. We will not use or share your information with anyone.
 
 
 
 # Personal and Sensitive User Data Policy
 Information Collection and Use
 
-With the better experience of our application Service, We may require you to provide us with certain personally identifiable information. 
-Our application can change the icons display and the wallpaper display in your device. Our application need some basic permission to reach the effect on Android device.
-The information that we request will be retained on your device and is not by our developer in any way. The information and the user data will be saved on your personal device that a mobile phone. 
-This app will collect information about the applications of your phone, including app icons, app package names, and application names. ( We can not receive any personally identifiable information and user data of your device if you install our application. The data and information must be provided by user.  The information and the user data will be saved on your personal device only. ) 
-You can contact us with the only way that give us an Email. ( You can provide and send your information or collection data to our developer Email address. ) You can only share the information or collection data to us by yourself. ( We have no way to obtain and get the data privately. ) We will only use this information and data to improve our Service.
-This terms is meant to help you understand why we collect it, and how you can update, manage, and export your information. 
-This is the situation how the data is used. 
-When you want to add a new icon design in our application, and you can send your Email to us. ( You can open our Icon Pack App first. You can find a select button on the bottom that named as Request Icon. ) 
+- With the better experience of our application Service, We may require you to provide us with certain personally identifiable information. 
+- Our application can change the icons display and the wallpaper display in your device. Our application need some basic permission to reach the effect on Android device.
+- The information that we request will be retained on your device and is not by our developer in any way. The information and the user data will be saved on your personal device that a mobile phone. 
+- This app will collect information about the applications of your phone, including app icons, app package names, and application names. ( We can not receive any personally identifiable information and user data of your device if you install our application. The data and information must be provided by user.  The information and the user data will be saved on your personal device only. ) 
+- You can contact us with the only way that give us an Email. ( You can provide and send your information or collection data to our developer Email address. ) You can only share the information or collection data to us by yourself. ( We have no way to obtain and get the data privately. ) We will only use this information and data to improve our Service.
+- This terms is meant to help you understand why we collect it, and how you can update, manage, and export your information. 
+- This is the situation how the data is used. 
+- - When you want to add a new icon design in our application, and you can send your Email to us. ( You can open our Icon Pack App first. You can find a select button on the bottom that named as Request Icon. ) 
 Then you can select the installed app which you want, and our Icon Pack application will generate a data file. 
 The data file that including app icons, app package names,and application names. ( You can send us this data file with an Email. ) 
 Notice at this step. Our Icon Pack application will generate and save the data file on you device only. ( You have the only right to choose the next option. ) We can not get the data file if you do not choose the next section. 
