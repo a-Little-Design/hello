@@ -4,9 +4,9 @@ A App was developed by our developer. The developer's name that "a Little Design
 # Privacy Policy
 
 - This is the Privacy Policy page of Applications which designed by the developer "Little Design".
-- The "Little Design" developer page on GitHub is here.
+- The [Little Design](https://github.com/a-Little-Design) developer page on GitHub is [here](https://github.com/a-Little-Design).
 - This Privacy Policy applies to general Application which designed by "Little Design" developer.
-- You can find our Apps, such as Icon Pack Apps on this page.
+- You can find our Apps, such as Icon Pack Apps on this [page](https://github.com/a-Little-Design/stone-plus-iconpack).
 - By using our Services, you are agreeing to read these terms. Please read them carefully. 
 - This Privacy Policy is a valid document for our Icon Pack application, and our mobile application, and our software service.
 
@@ -51,20 +51,20 @@ Information Collection and Use
 # Sharing Your Information
 
 - We do not share any information and data that we receive from you.
-- We also use the third party services of Google Play Services. The Google Play Services maybe will collect some information from your device. Please read the related page of Google Play Services.
-- The app does use third party services that may collect information. ( Maybe the information used to identify you.) You can link the Privacy Policy of third party service providers used by the app.
-- We follow the rules of Google Play Developer Distribution Agreement. Please read the related page of it.
+- We also use the third party services of [Google Play Services](https://www.google.com/policies/privacy/). The Google Play Services maybe will collect some information from your device. Please read the related page of [Google Play Services](https://play.google.com/about/play-terms/).
+- The app does use third party services that may collect information. ( Maybe the information used to identify you.) You can link the [Privacy Policy](https://play.google.com/about/play-terms/) of third party service providers used by the app.
+- We follow the rules of [Google Play Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html). Please read the related page of it.
 - Link to the privacy policy of third-party service providers maybe used by this app. Please read their privacy policy pages if you want to know about the third-party service.
-- - Google Play Services
-- - AdMob
-- - Google Analytics for Firebase
-- - Firebase Crashlytics
+- - [Google Play Services](https://www.google.com/policies/privacy)
+- - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+- - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+- - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
 
 
 # Families Policy
 
-- We strongly inform you that we follow the Google Play's Families policies. Providing a high quality and safe app for children and families is a high priority of developer. Please read the page here.
+- We strongly inform you that we follow the [Google Play's Families policies](https://play.google.com/console/about/programs/families/). Providing a high quality and safe app for children and families is a high priority of developer. Please read the page [here](https://support.google.com/googleplay/android-developer/answer/9893335?hl=en&ref_topic=9877766).
 - We do not collect personally identifiable information from children and families.  ( We can not receive any personally identifiable information and user data of your device if you install our application. ) We can not get your any data and information if you do not send us the Email. 
 - If you send us the Email. We will only get the data information that including app icons, app package names, and application names. 
 - When you share your information to us, we must project your information with our Privacy Policy.  
@@ -162,7 +162,7 @@ Information Collection and Use
 
 # Contact Us
 - If you have any questions or suggestions about our Privacy Policy, please contact us with Email first. 
-- You can find the Email address on our Google Play developer page. Our Google Play developer page here.
+- You can find the Email address on our GitHub developer page. Our GitHub developer page here.
 
 
 
