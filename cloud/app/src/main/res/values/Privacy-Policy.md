@@ -1,7 +1,14 @@
-#  Little Design
+#  Little Design🎨
 A App was developed by our developer. The developer's name that "a Little Design" or "Little Design".
 
-# Privacy Policy
+#
+---
+#
+#
+---
+#
+
+# Privacy Policy💎
 
 - This is the Privacy Policy page of Applications which designed by the developer "Little Design".
 - The [Little Design](https://github.com/a-Little-Design) developer page on GitHub is [here](https://github.com/a-Little-Design).
@@ -10,6 +17,9 @@ A App was developed by our developer. The developer's name that "a Little Design
 - By using our Services, you are agreeing to read these terms. Please read them carefully. 
 - This Privacy Policy is a valid document for our Icon Pack application, and our mobile application, and our software service.
 
+#
+---
+#
 
 
 # About
@@ -21,10 +31,19 @@ A App was developed by our developer. The developer's name that "a Little Design
 - If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for improving the Service. We will not use or share your information with anyone.
 - We collect information about the apps and devices you use to access our services, which helps us provide features such as modify the icons display of your phone screen, and change the phone wallpaper. We will not use or share your information with anyone.
 
-
+#
+---
+#
+#
+---
+#
 
 # Personal and Sensitive User Data Policy
-Information Collection and Use
+
+#
+#
+
+# Information Collection and Use
 
 - With the better experience of our application Service, We may require you to provide us with certain personally identifiable information. 
 - Our application can change the icons display and the wallpaper display in your device. Our application need some basic permission to reach the effect on Android device.
@@ -46,7 +65,8 @@ Information Collection and Use
 - - Then we can upgrade our Icon Pack application on the Google Play Store.
 - - You can get the beautiful screen after use our new Icon Pack application.
 
-
+#
+#
 
 # Sharing Your Information
 
@@ -60,7 +80,8 @@ Information Collection and Use
 - - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 - - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
-
+#
+#
 
 # Families Policy
 
@@ -74,7 +95,8 @@ Information Collection and Use
 - Our ads strategy is compliant with the Families policies by reviewing the Ads and monetization policies.
 - Our app (including all APIs, SDKs, and ads) complies with all applicable laws and regulations relating to children, including the [US Children's Online Privacy Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy), and the [EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679).
 
-
+#
+#
 
 # Chindren's Privacy
 
@@ -84,9 +106,14 @@ Information Collection and Use
 - If you are parent or guardian who your child has provided us with personal information, please contact us to take necessary actions.
 - We follow the [Google Play's Families policies](https://play.google.com/console/about/programs/families/) and the other Children's Online Privacy, including the [US Children's Online Privacy Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy), and the [EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679).
 
-
+#
+#
 
 # Other Privacy Content
+
+#
+---
+#
 
 
 # Log Data
@@ -95,6 +122,8 @@ Information Collection and Use
 - The Log Data may include information such as the device Internet Protocol address ( IP address ), device name, operating system version, crash reports, and the date, time, and other statistics.
 - We will not share the data and information to anyone. We will keep the data safety.
 
+#
+#
 
 # Cookies
 - Cookies are files with a small amount of data that are commonly used as anonymous inique identifiers. HTTP cookies (also called web cookies) are small blocks of data created by a web server while a user is browsing a website and placed on the user's device by the user's web browser. 
@@ -104,6 +133,8 @@ Information Collection and Use
 - You can choose either accept or refuse these Cookies.  ( If you choose to refuse the Cookies, you may not be able to use our Service of the application. )
 - If you worried about the Cookies with our Icon Pack application, you can delete and uninstall the application immediately.
 
+#
+#
 
 # Service Providers
 - I may employ third-party companies and individuals due to the following reasons:
@@ -120,7 +151,8 @@ Information Collection and Use
 - - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 - - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
-
+#
+#
 
 # Security
 - When you use our Services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
@@ -128,6 +160,8 @@ Information Collection and Use
 - We will use the original SDK ( [Android Studio](https://developer.android.com/studio) and App Tools ) to bulit our application.
 - We will update our application first if we found some bugs. 
 
+#
+#
 
 # Links
 - Our Service may contain links to other website, such as Github and Google Play. 
@@ -135,6 +169,8 @@ Information Collection and Use
 - Notice that these third websites are not operated by us. ( Therefore, I strogly advise you to review the Privacy Policy of those websites. )
 - We have no control over and assume no responsibility for the content, privacy policy, or practices of any third party websites or their services. ( You could not click in the links if you do not want. ) The links is not necessary if you do not like to enter.
 
+#
+#
 
 # Advertisements
 - We follow the [Advertisements requirements](https://support.google.com/googleplay/android-developer/answer/9893335) of Google Play. 
@@ -147,11 +183,17 @@ Information Collection and Use
 - Ensure ads displayed to those users follow the Families ad format requirements.
 - Ensure compliance with all applicable legal regulations and industry standards relating to advertising to children.
 
+#
+#
+
 # Agreement Changes
 - We may update our Privacy Policy from time to time. We may update the document first if the [Android developer content policy](https://play.google.com/about/developer-content-policy/) changed.
 - We advise you to review this page at any time. Then you can find what new changes in our Privacy Policy. 
 - We will notify you that all the changes in our Privacy Policy.
 - This version of our Privacy Policy is effective since 2023-03-22.
+
+#
+#
 
 # Our efforts to protect privacy
 - We follow Google and Android, a series of developer policies and agreements, and strive to protect the interests and privacy of all users.
@@ -160,10 +202,19 @@ Information Collection and Use
 - We promise that we will continue to improve our products and services.
 - Thank you for your support and trust in our products.
 
+#
+#
+
 # Contact Us
 - If you have any questions or suggestions about our Privacy Policy, please contact us with Email first. 
 - You can find the Email address on our GitHub developer page. Our [GitHub developer page](https://github.com/a-Little-Design/stone-plus-iconpack) here.
 
+#
+---
+#
+#
+---
+#
 
 
 
