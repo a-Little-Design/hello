@@ -5,8 +5,8 @@ Little Design.
 
 - By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. 
 - Copyright of our Applicatons belong to us.  
-- You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. 
-- You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. 
+- You’re not allowed to sell or modify the app which developed by us. Such as, you’re not allowed to sell the app's file which we made a package to APK. The copyright of the APK file belong to us.
+- You’re only allowed to use the source code of the app, and you also find the open source code on [Github page](https://github.com/a-Little-Design/stone-plus-iconpack) with this app. You’re allowed to make your project with the open source code, even with commercial work. Please respect the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0).
 - The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to us.
 - Our application is committed to ensuring that the app is as useful and efficient as possible. 
 - For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. 
